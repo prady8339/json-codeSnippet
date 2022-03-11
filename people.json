@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "name": "prady",
+            "age": 20,
+            "weight": 80
+        },
+        {
+            "name": "arjit",
+            "age": 20,
+            "weight": 75
+        },
+        {
+            "name": "rana",
+            "age": 20,
+            "weight": 64
+        },
+        {
+            "name": "akshat",
+            "age": 20,
+            "weight": 97
+        }
+    ]
+}
